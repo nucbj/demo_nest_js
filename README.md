@@ -4,3 +4,6 @@
 
 # npm install
 # npm run start:dev
+
+
+### NestJS Fireorm <- ORM
